@@ -1,6 +1,6 @@
-[![Social banner for JoshTag](./assets/index.svg)](https://joshtag.com)
+[![Social banner for JoshTag](./assets/banner.svg)](https://joshtag.com)
 
-# Everything You Need To Know About Me:
+## Everything You Need To Know About Me:
 
 - Favourite Food: Ramen
 - Favourite Emoji: ¯\\_(ツ)_/¯
