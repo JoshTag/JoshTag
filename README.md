@@ -9,6 +9,8 @@
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 <details>
  <summary><strong>View my stats</strong></summary>
 <p align="center">
