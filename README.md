@@ -7,6 +7,8 @@
 - Current Hair Length: Long
 - Fun Fact: Built my first site when I was 11 on asianavenue
 
+<!--START_SECTION:activity-->
+
 <details>
  <summary><strong>View my stats</strong></summary>
 <p align="center">
