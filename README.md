@@ -8,7 +8,6 @@
 - Fun Fact: Built my first site when I was 11 on asianavenue
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <details>
