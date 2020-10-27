@@ -8,6 +8,8 @@
 - Fun Fact: Built my first site when I was 11 on asianavenue
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/JoshTag/yvonne-choi-portfolio-site/pull/1) in [JoshTag/yvonne-choi-portfolio-site](https://github.com/JoshTag/yvonne-choi-portfolio-site)
+2. 💪 Opened PR [#1](https://github.com/JoshTag/yvonne-choi-portfolio-site/pull/1) in [JoshTag/yvonne-choi-portfolio-site](https://github.com/JoshTag/yvonne-choi-portfolio-site)
 <!--END_SECTION:activity-->
 
 <details>
