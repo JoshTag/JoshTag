@@ -8,8 +8,8 @@
 - Fun Fact: Built my first site when I was 11 on asianavenue
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/JoshTag/warcraft-auctions/pull/11) in [JoshTag/warcraft-auctions](https://github.com/JoshTag/warcraft-auctions)
-2. 🎉 Merged PR [#1](https://github.com/JoshTag/yvonne-choi-portfolio-site/pull/1) in [JoshTag/yvonne-choi-portfolio-site](https://github.com/JoshTag/yvonne-choi-portfolio-site)
+1. 🎉 Merged PR [#1](https://github.com/JoshTag/animal-facts-api/pull/1) in [JoshTag/animal-facts-api](https://github.com/JoshTag/animal-facts-api)
+2. 🎉 Merged PR [#5](https://github.com/JoshTag/web-slayer/pull/5) in [JoshTag/web-slayer](https://github.com/JoshTag/web-slayer)
 <!--END_SECTION:activity-->
 
 <details>
