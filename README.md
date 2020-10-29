@@ -7,6 +7,17 @@
 - Current Hair Length: Long
 - Fun Fact: Built my first site when I was 11 on asianavenue
 
+<details>
+ <summary><strong>View my stats and activity</strong></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshTag&count_private=true&show_icons=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshTag&layout=compact" />
+</p>
+
+## Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/JoshTag/animal-facts-api/pull/1) in [JoshTag/animal-facts-api](https://github.com/JoshTag/animal-facts-api)
 2. 🎉 Merged PR [#5](https://github.com/JoshTag/web-slayer/pull/5) in [JoshTag/web-slayer](https://github.com/JoshTag/web-slayer)
@@ -15,14 +26,8 @@
 5. 🎉 Merged PR [#6](https://github.com/JoshTag/dog-hot-dog/pull/6) in [JoshTag/dog-hot-dog](https://github.com/JoshTag/dog-hot-dog)
 <!--END_SECTION:activity-->
 
-<details>
- <summary><strong>View my stats</strong></summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshTag&count_private=true&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshTag&layout=compact" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 </details>
 
