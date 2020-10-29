@@ -27,6 +27,24 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               18 repos            █████████████████░░░░░░░░   69.23% 
+CSS                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/JoshTag/JoshTag/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
  
 </details>
