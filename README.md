@@ -10,6 +10,12 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/JoshTag/animal-facts-api/pull/1) in [JoshTag/animal-facts-api](https://github.com/JoshTag/animal-facts-api)
 2. 🎉 Merged PR [#5](https://github.com/JoshTag/web-slayer/pull/5) in [JoshTag/web-slayer](https://github.com/JoshTag/web-slayer)
+3. 🎉 Merged PR [#4](https://github.com/JoshTag/web-slayer/pull/4) in [JoshTag/web-slayer](https://github.com/JoshTag/web-slayer)
+4. 🎉 Merged PR [#7](https://github.com/JoshTag/dog-hot-dog/pull/7) in [JoshTag/dog-hot-dog](https://github.com/JoshTag/dog-hot-dog)
+5. 🎉 Merged PR [#6](https://github.com/JoshTag/dog-hot-dog/pull/6) in [JoshTag/dog-hot-dog](https://github.com/JoshTag/dog-hot-dog)
+<!--END_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/JoshTag/animal-facts-api/pull/1) in [JoshTag/animal-facts-api](https://github.com/JoshTag/animal-facts-api)
+2. 🎉 Merged PR [#5](https://github.com/JoshTag/web-slayer/pull/5) in [JoshTag/web-slayer](https://github.com/JoshTag/web-slayer)
 
 <details>
  <summary><strong>View my stats</strong></summary>
