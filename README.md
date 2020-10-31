@@ -27,14 +27,15 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.2%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               18 repos            █████████████████░░░░░░░░   69.23% 
-CSS                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
 Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
 
 ```
