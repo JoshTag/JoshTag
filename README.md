@@ -7,21 +7,6 @@
 - Current Hair Length: Long
 - Fun Fact: Built my first site when I was 11 on asianavenue
 
-<details>
- <summary><strong>View my stats and activity</strong></summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshTag&count_private=true&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshTag&layout=compact" />
-</p>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-
-</details>
-
 ## Find Me Around
 
 [![Gmail Badge](https://img.shields.io/badge/-github-333333??&style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/joshtag)](https://github.com/joshtag)
