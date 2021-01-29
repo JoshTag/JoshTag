@@ -19,31 +19,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JoshTag/animal-facts-api/pull/1) in [JoshTag/animal-facts-api](https://github.com/JoshTag/animal-facts-api)
-2. 🎉 Merged PR [#5](https://github.com/JoshTag/web-slayer/pull/5) in [JoshTag/web-slayer](https://github.com/JoshTag/web-slayer)
-3. 🎉 Merged PR [#4](https://github.com/JoshTag/web-slayer/pull/4) in [JoshTag/web-slayer](https://github.com/JoshTag/web-slayer)
-4. 🎉 Merged PR [#7](https://github.com/JoshTag/dog-hot-dog/pull/7) in [JoshTag/dog-hot-dog](https://github.com/JoshTag/dog-hot-dog)
-5. 🎉 Merged PR [#6](https://github.com/JoshTag/dog-hot-dog/pull/6) in [JoshTag/dog-hot-dog](https://github.com/JoshTag/dog-hot-dog)
-<!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               20 repos            █████████████████░░░░░░░░   68.97% 
-CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
-
-```
-
-
-
-<!--END_SECTION:waka-->
- 
 </details>
 
 ## Find Me Around
